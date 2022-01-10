@@ -2,7 +2,7 @@
 
 - 🙈 I work as a front-end
 
-- 🌱 I am currently learning TypeScript
+- 🌱 I am currently learning TypeScript,Python,C#
 
 - 💞️ 
 
