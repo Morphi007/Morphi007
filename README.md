@@ -2,9 +2,9 @@
 
 - 🙈 I work as a front-end
 
-- 🌱 I am currently learning React,
+- 🌱 I am currently learning TypeScript
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 
 - 📫 How to reach me: Morphidoleo@gmail.com
 
