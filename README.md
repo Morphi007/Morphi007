@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Morpy
+- 👋 Hi, I’m @Morphy
 
 - 🙈 I work as a front-end
 
