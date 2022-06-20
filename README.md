@@ -4,7 +4,7 @@
 
 - 🌱 I am currently learning TypeScript,Python,C#
 
-- 💞️ 
+- 💞️ (✿◡‿◡)(´▽`ʃ♡ƪ)
 
 - 📫 How to reach me: Morphidoleo@gmail.com
 
