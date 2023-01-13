@@ -33,7 +33,7 @@
 <a href="https://instagram.com/morphy.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <a href = "mailto:morphidoleo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "[mailto:morphidoleo@gmail.com](https://www.linkedin.com/in/morphydoleo/)"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" target="_blank"></a>
+
 
   
  
