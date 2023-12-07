@@ -94,6 +94,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Morphi007/Morphi007/output/snake.svg" alt="Snake animation" />
+
 
 ###
