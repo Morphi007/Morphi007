@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Morphi007</h1>
 
 ###
 
@@ -93,7 +93,5 @@
 </div>
 
 ###
-
-
-
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Morphi007&theme=default"/>
 ###
