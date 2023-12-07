@@ -93,5 +93,7 @@
 </div>
 
 ###
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Morphi007&theme=default"/>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Morphi007&theme=react"/>
+
 ###
