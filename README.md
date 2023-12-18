@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m @Morphy<br><br>- 🙈 I work as a front-end<br><br>- 🌱 I am currently learning <br><br>- 💞️ (✿◡‿◡)(´▽`ʃ♡ƪ)<br><br>- 📫 How to reach me: Morphidoleo@gmail.com</p>
+<p align="left"><br>- 🙈 I work as a front-end<br><br>- 🌱 I am currently learning <br><br>- 💞️ (✿◡‿◡)(´▽`ʃ♡ƪ)<br><br>- 📫 How to reach me: Morphidoleo@gmail.com</p>
 
 ###
 
