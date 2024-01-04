@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/embed/lP8xu5t2DLGG045H8](https://jmp.sh/s/ycNQrtRJZLNzAdC5ooFo](https://github.com/Morphi007/participacion/assets/78938079/cd0ee7ed-e696-4606-a5d4-301711b38e00](https://github.com/Morphi007/participacion/assets/78938079/3ef5a56b-b782-4731-b797-e487ec79d78c"  />
-https://private-user-images.githubusercontent.com/78938079/294071258-3ef5a56b-b782-4731-b797-e487ec79d78c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzMzU3MzQsIm5iZiI6MTcwNDMzNTQzNCwicGF0aCI6Ii83ODkzODA3OS8yOTQwNzEyNTgtM2VmNWE1NmItYjc4Mi00NzMxLWI3OTctZTQ4N2VjNzlkNzhjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA0VDAyMzAzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiZDBiNjM5NGI5MTgyMzVlYzIzNTgwMjQ0ODEwNmRlMjg4MmVkYWIxNWM0ZTU1NGVjNDlhZDRmNmVjMDJiZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gkIl82YcScQNK72i4B0izapJv67e1g4Z3h59ZAof0x8
-
+  <img height="150" src="https://giphy.com/embed/lP8xu5t2DLGG045H8](https://jmp.sh/s/ycNQrtRJZLNzAdC5ooFo](https://github.com/Morphi007/participacion/assets/78938079/cd0ee7ed-e696-4606-a5d4-301711b38e00]
+  ![giphy](https://github.com/Morphi007/participacion/assets/78938079/f6f81d48-5c67-4136-a6de-b78e1124b4bb)
  
 
 </div>
