@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="150" src="https://github.com/Morphi007/participacion/issues/2#issue-2064898936"/>
-  ![giphy](https://github.com/Morphi007/participacion/assets/78938079/f6f81d48-5c67-4136-a6de-b78e1124b4bb)
+  <img height="150" src="https://github.com/Morphi007/participacion/issues/2#issue-2064898936](https://github.com/Morphi007/participacion/assets/78938079/f6f81d48-5c67-4136-a6de-b78e1124b4bb/>
+  
  
 
 </div>
