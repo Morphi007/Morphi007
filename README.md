@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="40" src="https://giphy.com/embed/lP8xu5t2DLGG045H8](https://jmp.sh/s/ycNQrtRJZLNzAdC5ooFo](https://github.com/Morphi007/participacion/assets/78938079/cd0ee7ed-e696-4606-a5d4-301711b38e00](https://github.com/Morphi007/participacion/assets/78938079/3ef5a56b-b782-4731-b797-e487ec79d78c"  />
+  <img height="50" src="https://giphy.com/embed/lP8xu5t2DLGG045H8](https://jmp.sh/s/ycNQrtRJZLNzAdC5ooFo](https://github.com/Morphi007/participacion/assets/78938079/cd0ee7ed-e696-4606-a5d4-301711b38e00](https://github.com/Morphi007/participacion/assets/78938079/3ef5a56b-b782-4731-b797-e487ec79d78c"  />
 
 
  
