@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/embed/lP8xu5t2DLGG045H8](https://jmp.sh/s/ycNQrtRJZLNzAdC5ooFo](https://github.com/Morphi007/participacion/assets/78938079/cd0ee7ed-e696-4606-a5d4-301711b38e00]
+  <img height="150" src="https://github.com/Morphi007/participacion/issues/2#issue-2064898936"/>
   ![giphy](https://github.com/Morphi007/participacion/assets/78938079/f6f81d48-5c67-4136-a6de-b78e1124b4bb)
  
 
