@@ -93,7 +93,4 @@
   <img src="https://streak-stats.demolab.com?user=Morphi007&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Morphi007&theme=react"/>
 
-###
