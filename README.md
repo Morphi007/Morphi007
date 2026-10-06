@@ -29,7 +29,17 @@
 
 ###
 
-<p align="left"><br>- 🙈 I work as a front-end<br><br>- 🌱 I am currently learning <br><br>- 💞️ (✿◡‿◡)(´▽`ʃ♡ƪ)<br><br>- 📫 How to reach me: Morphidoleo@gmail.com</p>
+<p align="left">
+
+- 💻 Full-Stack Developer in progress
+- 🚀 Building projects, breaking things & learning from them
+- 🧠 Currently improving my JavaScript, C# & software architecture skills
+- 🌱 Always learning something new
+- 🎮 Gamer when I'm not coding
+- ☕ Code. Learn. Build. Repeat.
+- 📫 Reach me: Morphidoleo@gmail.com
+
+</p>
 
 ###
 
