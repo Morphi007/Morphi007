@@ -37,7 +37,6 @@
 - 🌱 Always learning something new
 - 🎮 Gamer when I'm not coding
 - ☕ Code. Learn. Build. Repeat.
-- 📫 Reach me: Morphidoleo@gmail.com
 
 </p>
 
